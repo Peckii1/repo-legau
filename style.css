@@ -59,7 +59,7 @@ main {
 
 /* estiliza todos os botões da página */
 button {
-    background-color: #B870DB; /* define a cor de fundo do botão */
+    background-color: #82db70; /* define a cor de fundo do botão */
     color: white; /* define a cor do texto do botão */
     border: none; /* remove a borda padrão */
     padding: 12px 18px; /* adiciona espaçamento interno no botão */
